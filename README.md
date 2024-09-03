@@ -40,4 +40,4 @@ To use meowBot:
 -  Discord API account and token
 -  Google Cloud Platform account for hosting
 ## Contributing
-Contributions to improve meowBot are welcome! Feel free to open an issue or submit a pull request with suggestions or bug fixes.
+Contributions to improve meowBot are welcome! Feel free to reach out for improvements and advancements.
